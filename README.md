@@ -6,7 +6,7 @@ Dupay是一个英国华人公司做的虚拟卡，已经上线四年了，一直
 
 ## 卡片详情
 
-<a href="my_card.png" target="_blank">  
+<a href="my_card.png" title="点我查看详情" target="_blank">  
   <img src="my_card.png" width="300" height="400" alt="Dupay 卡片详情">
 </a>
 
