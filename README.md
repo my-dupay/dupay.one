@@ -10,6 +10,12 @@ Dupay是一个英国华人公司做的虚拟卡，已经上线四年了，一直
 
 当前，Depay已经上架海外苹果商店，可以使用海外Apple ID下载。如果是安卓就比较简单，可以直接<span style="font-size:16px; font-weight:bold; padding:3px;">[注册下载](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)</span>，注册后可自动选择Ios、Android下载
 
+[注册步骤：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/><br/>
+1.[申请注册](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)：通过web页面轻松在注册，只需要一个邮箱或者手机号即可<br/>
+2.完成KYC：下载APP之后，按照指示一步一步完成流程，只需2分钟系统自动完成，这再简单不过了<br/>
+3.KYC通过后：USDT充值，申请卡片，消费，APP可以详细查看每一笔充值、消费记录，让你随时掌握，管理您的财务状况<br/>
+<br/>
+
 注意：[使用很简单，就不做详细图文介绍了](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)，使用Dupay无需开VPN
 
 ## Dupay开卡费用说明
