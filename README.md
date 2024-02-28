@@ -69,3 +69,8 @@ Dupay是一个英国华人公司做的虚拟卡，已经上线四年了，一直
 |-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [官方Twitter（推特）](https://twitter.com/Dupay_CN) | ![Twitter（推特）](twitter.png)                                                                                                                                                    |
 | [官方Telegram群](https://t.me/DupayCard)         | ![官方Telegram群](telegram.png) |
+
+
+## 关键词
+Dupay-Card、Depay-Card、Mster卡-Visa卡、Dupay虚拟信用卡、Depay虚拟信用卡、Dupay开卡、虚拟卡-U卡、Paywiser-Card申请、英镑借记卡(带IBAN)、Dupay（Depay）英镑卡激活 Wise 送个人 IBAN、chatgpt-plus开通、预付卡出入金、-借记卡出入金、币圈出入金、安全出入金、规避USDT的OTC兑换风险
+
