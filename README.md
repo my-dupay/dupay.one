@@ -2,8 +2,12 @@
 
 Dupay是一个英国华人公司做的虚拟卡，已经上线四年了，一直很稳定安全。它是一张数字货币Visa/Master的预付卡。后续增加Paywiser借记卡，也就是说想消费，必须先充值。而你可以使用USDT来充值。USDT可从各大交易所提币到Dupay或者Telegram群认证油管博主购买，这样的话，你就可以顺利地使用Dupay卡在国内外消费了
 
-
 =======
+
+## 卡片详情
+
+[![Dupay 卡片详情](my_card.png)](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)
+
 ----
 
 ## ➡️ [Dupay: 使用教程](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)
