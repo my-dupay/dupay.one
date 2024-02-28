@@ -1,6 +1,6 @@
 # Dupay（原Depay） 使用教程：万事达卡（MasterCard）、维萨卡（VISA）预付款卡申请、Paywiser借记卡申请
 
-Dupay是一个英国华人公司做的虚拟卡，已经上线四年了，一直很稳定安全。它是一张数字货币Visa/Master的预付卡。后续增加Paywiser借记卡，也就是说想消费，必须先充值。而你可以使用USDT来充值。USDT可从各大交易所提币到Dupay或者Telegram群认证油管博主购买，这样的话，你就可以顺利地使用Dupay卡在国内消费了
+Dupay是一个英国华人公司做的虚拟卡，已经上线四年了，一直很稳定安全。它是一张数字货币Visa/Master的预付卡。后续增加Paywiser借记卡，也就是说想消费，必须先充值。而你可以使用USDT来充值。USDT可从各大交易所提币到Dupay或者Telegram群认证油管博主购买，这样的话，你就可以顺利地使用Dupay卡在国内外消费了
 
 
 =======
@@ -8,7 +8,7 @@ Dupay是一个英国华人公司做的虚拟卡，已经上线四年了，一直
 
 ## ➡️ [Dupay: 使用教程](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)
 
-当前，Depay已经上架海外苹果商店，可以使用海外Apple ID下载。如果是安卓就比较简单，可以直接<span style="font-size:16px; font-weight:bold; padding:3px;">[注册下载](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)</span>，注册后可自动选择Ios、Android下载
+当前，Dupay已经上架海外苹果商店，可以使用海外Apple ID下载。如果是安卓就比较简单，可以直接<span style="font-size:16px; font-weight:bold; padding:3px;">[注册下载](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)</span>，注册后可自动选择Ios、Android下载
 
 [注册步骤：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/><br/>
 1.[申请注册](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)：通过web页面轻松在注册，只需要一个邮箱或者手机号即可<br/>
