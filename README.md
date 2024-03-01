@@ -26,7 +26,7 @@ Dupay是一个英国华人公司做的虚拟卡，已经上线四年了，一直
 
 ## Dupay开卡费用说明
 
-[美元Master、Visa开卡费用：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/><br/>
+<br/>[美元Master、Visa开卡费用：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/><br/>
 
 |    Master卡片等级&nbsp;&nbsp;&nbsp;&nbsp;    | 高级卡       | 白金卡       | 黑金卡   |
 |--------|-----------|-----------|-------|
@@ -42,8 +42,7 @@ Dupay是一个英国华人公司做的虚拟卡，已经上线四年了，一直
 | 充值额度/月   | 50,000USD | 200,000USD | /     |
 | 卡片充值费用   | 1.60%    | 1.40%     | 1.20% |
 
-
-[英镑Paywiser开卡须知及费用说明：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/><br/>
+<br/>[英镑Paywiser开卡须知及费用说明：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/><br/>
 1.开卡费包含5USDT Lv2身份认证费用由发卡方收取，认证失败该费用无法退回，请知悉<br/>
 2.GBP借记卡退款的处理时间较长，除非必要，建议避免涉及退款的消费<br/>
 3.请确保账户内余额充足，如账户余额不足，将有可能触发风控机制<br/>
