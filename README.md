@@ -22,7 +22,7 @@ Dupay是一个英国华人公司做的虚拟卡，已经上线四年了，一直
 3.KYC通过后：USDT充值，申请卡片，消费，APP可以详细查看每一笔充值、消费记录，让你随时掌握，管理您的财务状况<br/>
 <br/>
 
-注意：[使用很简单，就不做详细图文介绍了](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)，使用Dupay无需开VPN
+注意：使用很简单，[就不做详细图文介绍了](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)，任何不清楚的地方可加入[官方Telegram群](https://t.me/DupayCard)咨询客服(任何私聊的都是骗子)，使用Dupay无需开VPN
 
 ## Dupay开卡费用说明
 
@@ -45,9 +45,9 @@ Dupay是一个英国华人公司做的虚拟卡，已经上线四年了，一直
 <br/>[英镑Paywiser借记卡开卡须知及开卡费用：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/><br/>
 1.开卡费包含 [5USDT](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn) Lv2身份认证费用由发卡方收取，认证失败该费用无法退回，请知悉<br/>
 2.GBP借记卡退款的处理时间较长，除非必要，建议避免涉及退款的消费<br/>
-3.请确保账户内余额充足，如账户余额不足，将有可能触发风控机制<br/>
+3.[转账支持：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn) 英国FPS（英镑转英镑），欧盟SePA，还有swifit（所有币种）<br/>
 4.敬请合法，合规的使用IBAN，如触发风控，银行将有可能进行关户处理<br/>
-5.每笔充值需要银行审核，请耐心等待<br/>
+5.[实体卡支持国内ATM取现与刷卡消费](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn) ，每笔充值需要银行审核，请耐心等待<br/>
 
 
 | Paywiser卡片等级 | 标准卡               | 高级卡        | 白金卡      | 黑金卡     |
