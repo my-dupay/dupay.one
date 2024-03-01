@@ -26,7 +26,7 @@ Dupay是一个英国华人公司做的虚拟卡，已经上线四年了，一直
 
 ## Dupay开卡费用说明
 
-<br/>[美元Master、Visa开卡费用：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/><br/>
+<br/>[美元Master、Visa预付卡开卡费用：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/><br/>
 
 |    Master卡片等级&nbsp;&nbsp;&nbsp;&nbsp;    | 高级卡       | 白金卡       | 黑金卡   |
 |--------|-----------|-----------|-------|
@@ -42,8 +42,8 @@ Dupay是一个英国华人公司做的虚拟卡，已经上线四年了，一直
 | 充值额度/月   | 50,000USD | 200,000USD | /     |
 | 卡片充值费用   | 1.60%    | 1.40%     | 1.20% |
 
-<br/>[英镑Paywiser开卡须知及费用说明：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/><br/>
-1.开卡费包含5USDT Lv2身份认证费用由发卡方收取，认证失败该费用无法退回，请知悉<br/>
+<br/>[英镑Paywiser借记卡开卡须知及开卡费用：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/><br/>
+1.开卡费包含 [5USDT](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn) Lv2身份认证费用由发卡方收取，认证失败该费用无法退回，请知悉<br/>
 2.GBP借记卡退款的处理时间较长，除非必要，建议避免涉及退款的消费<br/>
 3.请确保账户内余额充足，如账户余额不足，将有可能触发风控机制<br/>
 4.敬请合法，合规的使用IBAN，如触发风控，银行将有可能进行关户处理<br/>
@@ -61,9 +61,9 @@ Dupay是一个英国华人公司做的虚拟卡，已经上线四年了，一直
 ## Dupay卡片介绍
 
 [使用场景：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/><br/>
-1.可开OpenAi、Gpt-4会员等<br/>
+1.可开[OpenAi、ChatGPT-4 Plus会员](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)等<br/>
 2.支持绑定支付宝、微信支付、美团外卖、拼多多、Paypal（国区、美区）、天猫国际版等等<br/>
-3.支持Stripe商户、Google Play商店、Youtube Premium、PayPal商户、美区苹果商店、和支持非3DS卡的电商网站<br/>
+3.支持Stripe商户、Google Play商店、Youtube Premium、[PayPal商户](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)、美区苹果商店、和支持非3DS卡的电商网站<br/>
 4.支持国内苹果官网直接绑卡购买iPhone和Mac，可能会打电话询问，直接说这是自己的银行卡即可<br/>
 5.暂不支持苹果支付Apple Pay和Google Pay<br/>
 6.所有等级的卡（Lite、标准、高级、白金、黑金）都满足以上场景<br/>
