@@ -4,6 +4,11 @@ Dupay是一个英国华人公司做的虚拟卡，已经上线四年了，一直
 
 =======
 
+## ➡️ [常见问题集合](Dupay 疑难问题集合.pdf)
+[阅读体验：](Dupay 疑难问题集合.pdf)<br/>
+1.App可用WPS打开选择阅读模式点击右下角查看目录大纲<br/>
+2.电脑可[点击](Dupay 疑难问题集合.pdf)直接打开选择文档大纲阅读<br/>
+
 ## 卡片详情
 
 <a href="my_card.png" title="点我查看详情" target="_blank">  
@@ -58,7 +63,7 @@ Dupay是一个英国华人公司做的虚拟卡，已经上线四年了，一直
 | 卡片充值费用       | 1.80%(Min 1.0GBP) | 1.60%      | 1.40%    | 1.20%   |
 | 消费手续费        | 0.5%             | 0.5%       | 0.5%     | 0.5%    |
 
-## Dupay卡片介绍
+## Dupay预付卡介绍
 
 [使用场景：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/><br/>
 1.可开[OpenAi、ChatGPT-4 Plus会员](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)等<br/>
