@@ -1,12 +1,12 @@
 ## Dupay 预付卡支付场景、费用介绍
 
 [支付场景：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/><br/>
-1.可开[OpenAi、ChatGPT-4 Plus会员](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)等<br/>
+1.可开[OpenAi](https://openai.com/)，[ChatGPT-4 Plus会员](https://chat.openai.com/)等<br/>
 2.支持绑定支付宝、微信支付、美团外卖、拼多多、Paypal（国区、美区）、天猫国际版等等<br/>
-3.支持Stripe商户、Google Play商店、Youtube Premium、[PayPal商户](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)、美区苹果商店、和支持非3DS卡的电商网站<br/>
+3.支持Stripe商户、Google Play商店、Youtube Premium、PayPal商户、美区苹果商店、和支持非3DS卡的电商网站<br/>
 4.支持国内苹果官网直接绑卡购买iPhone和Mac，可能会打电话询问，直接说这是自己的银行卡即可<br/>
 5.暂不支持苹果支付Apple Pay和Google Pay<br/>
-6.所有等级的卡（Lite、标准、高级、白金、黑金）都满足以上场景<br/>
+6.所有等级的卡（高级、白金、黑金）都满足以上场景<br/>
 <br/>
 
 [美元MasterCard、Visa卡费用介绍：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/>
