@@ -32,7 +32,7 @@
   <td rowspan="3">0USDT (消费<1USD收0.5USD/笔)</td>  
   <td>1.60%</td>   
   <td>50,000</td>
-  <td rowspan="3">资金不足授权失败>=10次，需缴纳0.5U/笔费用</td>  
+  <td rowspan="3">资金不足授权失败>=10次，需缴纳0.5U/笔罚金</td>  
 </tr>
 <tr>  
   <td>白金卡</td> 
