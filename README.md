@@ -1,5 +1,7 @@
 ## Dupay 预付卡支付场景、费用介绍
 
+## ➡️ <a href="https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn" title="Dupay 立即注册" target="_blank">立即注册</a>
+
 [支付场景：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/><br/>
 1.可开[OpenAi](https://openai.com/)，[ChatGPT-4 Plus会员](https://chat.openai.com/)等<br/>
 2.支持绑定支付宝、微信支付、美团外卖、拼多多、Paypal（国区、美区）、天猫国际版等等<br/>
