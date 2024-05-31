@@ -1,4 +1,4 @@
-## Dupay 预付卡支付场景、费用介绍
+## Dupay 美元预付卡支付场景、费用介绍
 
 ## ➡️ <a href="https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn" title="Dupay 立即注册" target="_blank">立即注册</a>
 
@@ -11,21 +11,21 @@
 6.所有等级的卡（高级、白金、黑金）都满足以上场景<br/>
 <br/>
 
-[美元MasterCard、Visa卡费用介绍：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/>
+[普通卡费用介绍：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/>
 
 <table>  
 <tr>  
-  <th>卡片卡头</th> 
+  <th>卡头(Master/Visa)</th> 
   <th>等级</th>  
   <th>开卡费</th>  
   <th>月费</th>
   <th>消费手续费费率</th>
-  <th>卡片充值费率</th>
+  <th>充值费率</th>
   <th>充值额度/月</th>
   <th>授权失败罚金</th>
 </tr>  
 <tr>  
-  <td rowspan="3">Visa:4859<br/>MasterCard:5563<br/>MasterCard:5319</td>  
+  <td rowspan="3">Visa:4859<br/>Master:5563<br/>Master:5319</td>  
   <td>高级卡</td> 
   <td>20USDT</td>  
   <td>0.5USDT</td>  
@@ -48,6 +48,34 @@
   <td>500,000</td>  
 </tr>
 <tr>  
-  <th colspan="8">不带账户、不支持转账、充提秒进卡秒提现</th> 
+  <th colspan="8">需KYC，不带账户、不支持转账、充提秒进卡秒提现</th> 
+</tr>  
+</table>
+
+[订阅卡费用介绍：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/>
+
+<table>  
+<tr> 
+  <th>卡头(Master/Visa)</th> 
+  <th>类型</th>  
+  <th>开卡费</th>  
+  <th>月费</th>
+  <th>消费手续费费率</th>
+  <th>充值费率</th>
+  <th>充值额度/月</th>
+  <th>授权失败罚金</th>
+</tr>  
+<tr> 
+  <td>Visa:4859<br/>Master:5563<br/>Master:5319</td>  
+  <td>订阅卡</td> 
+  <td>5USDT</td>  
+  <td>1USDT</td>  
+  <td>0USDT (消费<1USD收0.5USD/笔)</td>  
+  <td>2.50%</td>   
+  <td>500</td>
+  <td>资金不足授权失败>=10次，需缴纳0.5U/笔罚金</td>  
+</tr>
+<tr>  
+  <th colspan="8">无需KYC，支持订阅ChatGpt、Openai、AppStore美区等，不支持绑定微信、支付宝等</th> 
 </tr>  
 </table>
