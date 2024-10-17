@@ -14,6 +14,7 @@
 [注意事项：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/><br/>
 1.旧的美元预付卡还在等银行处理，暂不可用。付费老用户可根据此前的开卡等级，免费补偿相同等级的欧元卡<br/>
 2.需身份认证KYC，身份证与护照均可+真人人脸识别<br/>
+3.总费用=开卡费+卡片充值费+消费手续费+月费，无其他费用<br/>
 <br/>
 
 [费用介绍：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/>
