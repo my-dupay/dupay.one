@@ -33,7 +33,7 @@
   <td rowspan="4">Master:520581</td>  
   <td>标准卡</td> 
   <td>10 USDT</td>  
-  <td>1 USDT</td>  
+  <td>1 EUR</td>  
   <td rowspan="3">1%</td>  
   <td>1.80%</td>   
   <td>20,000 EUR</td>
@@ -41,14 +41,14 @@
 <tr>  
   <td>高级卡</td> 
   <td>20 USDT</td>  
-  <td>0.5 USDT</td>  
+  <td>0.5 EUR</td>  
   <td>1.60%</td>   
   <td>50,000 EUR</td> 
 </tr>
 <tr>  
   <td>白金卡</td> 
   <td>50 USDT</td>  
-  <td>0 USDT</td>  
+  <td>0 EUR</td>  
   <td>1.40%</td>   
   <td>200,000 EUR</td>  
 </tr>
