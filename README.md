@@ -13,6 +13,7 @@
 
 [注意事项：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/><br/>
 1.旧的美元预付卡还在等银行处理，暂不可用。付费老用户可根据此前的开卡等级，免费补偿相同等级的欧元卡<br/>
+2.需身份认证KYC，身份证与护照均可+真人人脸识别<br/>
 <br/>
 
 [普通卡费用介绍：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/>
@@ -20,7 +21,7 @@
 <table>  
 <tr>  
   <th>卡头(Master/Visa)</th> 
-  <th>等级</th>  
+  <th>卡片等级</th>  
   <th>开卡费</th>  
   <th>月费</th>
   <th>非欧元区消费手续费</th>
@@ -55,6 +56,6 @@
   <th colspan="5">暂未开放</th>  
 </tr>
 <tr>  
-  <th colspan="8">此前有付费的开卡，补偿相同等级的欧元卡</th> 
+  <th colspan="8">没有最低消费限制，交易风控低</th> 
 </tr>  
 </table>
