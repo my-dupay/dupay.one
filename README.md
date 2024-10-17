@@ -8,7 +8,7 @@
 3.支持Stripe商户、Google Play商店、Youtube Premium、PayPal商户、美区苹果商店、和支持3DS卡的电商网站<br/>
 4.支持国内苹果官网直接绑卡购买iPhone和Mac，可能会打电话询问，直接说这是自己的银行卡即可<br/>
 5.支持苹果支付Apple Pay和Google Pay<br/>
-6.所有等级的卡（高级、白金、黑金）都满足以上场景<br/>
+6.所有等级的卡（标准、高级、白金）都满足以上场景<br/>
 <br/>
 
 [注意事项：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/><br/>
