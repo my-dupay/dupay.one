@@ -16,7 +16,7 @@
 2.需身份认证KYC，身份证与护照均可+真人人脸识别<br/>
 <br/>
 
-[普通卡费用介绍：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/>
+[费用介绍：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/>
 
 <table>  
 <tr>  
@@ -30,7 +30,7 @@
 </tr>
 <tr>  
   <td rowspan="4">Master:520581</td>  
-  <td>高级卡</td> 
+  <td>标准卡</td> 
   <td>10 USDT</td>  
   <td>1 USDT</td>  
   <td rowspan="3">1%</td>  
