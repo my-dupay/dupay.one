@@ -1,4 +1,4 @@
-## Dupay 欧元借记卡支付场景、费用介绍
+## Dupay 欧元借记卡支付场景、费用介绍(最新版本)
 
 ## ➡️ <a href="https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn" title="Dupay 立即注册" target="_blank">立即注册</a>
 
