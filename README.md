@@ -21,7 +21,7 @@
 
 <table>  
 <tr>  
-  <th>卡头(Master/Visa)</th> 
+  <th>卡头(Master)</th> 
   <th>卡片等级</th>  
   <th>开卡费</th>  
   <th>月费</th>
@@ -30,7 +30,7 @@
   <th>充值额度/月</th>
 </tr>
 <tr>  
-  <td rowspan="4">Master:520581</td>  
+  <td rowspan="4">520581</td>  
   <td>标准卡</td> 
   <td>10 USDT</td>  
   <td>1 EUR</td>  
