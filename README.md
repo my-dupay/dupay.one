@@ -2,6 +2,8 @@
 
 ## ➡️ <a href="https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn" title="Dupay 立即注册" target="_blank">立即注册</a>
 
+[欧元卡实名教程](https://telegra.ph/Dupay%E6%AC%A7%E5%85%83%E5%8D%A1KYC%E5%AE%9E%E5%90%8D%E6%95%99%E7%A8%8B-10-14)<br/>
+
 [支付场景：](https://dupay.one/web-app/register-h5?invitCode=184747&lang=zh-cn)<br/><br/>
 1.可开[OpenAi](https://openai.com/)，[ChatGPT-4 Plus会员](https://chat.openai.com/)等<br/>
 2.支持绑定支付宝、微信支付、美团外卖、拼多多、Paypal（国区、美区）、天猫国际版等等<br/>
